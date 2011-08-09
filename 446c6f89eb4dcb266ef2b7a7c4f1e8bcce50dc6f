@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//+ZY\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 129
+      },
+      "writtenOn": "2011-08-09T12:55:16Z",
+      "side": 1,
+      "message": "\u0026 is a special character in XML strings, replace it with \u0026amp;",
+      "revId": "446c6f89eb4dcb266ef2b7a7c4f1e8bcce50dc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
