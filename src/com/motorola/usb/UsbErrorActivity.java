@@ -66,8 +66,8 @@ public class UsbErrorActivity extends AlertActivity
 
 
 		mAlertParams.mMessage = getString(R.string.usb_error_message) + " " +
-														getIntent().getStringExtra("USB_MODE_STRING") +
-														getString(R.string.usb_period);
+			getIntent().getStringExtra("USB_MODE_STRING") +
+			getString(R.string.usb_period);
 
 		mAlertParams.mPositiveButtonText = getString(R.string.usb_ok);
 		mAlertParams.mPositiveButtonListener = this;
