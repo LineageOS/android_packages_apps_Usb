@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAKH////k\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 129
+      },
+      "writtenOn": "2011-10-16T05:30:49Z",
+      "side": 1,
+      "message": "Tato zprava je zobrazena v okamziku, kdy byl iniciovan proces zmeny pripojeni USB. V te chvili jeste USB zdaleka neni \"pripojeno jako\" - nova enumerace USB obvykle jeste vubec nezacala. Ono \"bude\" je zde zcela na miste. Tato zprava je pozdeji obvykle nasledovana dalsi zpravou, jako napr. \"SD karta je nyni pristupna pres USB.\"",
+      "revId": "52814d466fe9bb498c57cf4c103046f67122ca48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
