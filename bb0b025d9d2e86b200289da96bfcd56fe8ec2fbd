@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAALH///Tk\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 396,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "While you\u0027re at it, please make that line a\n\nif (!TextUtils.isEmpty(stateFileName)) {",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///Ts\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1072,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "Why is the trim() needed here? It looks like that only should be needed if the overlay is broken.",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///T0\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1078,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "That case can\u0027t happen.",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///Tw\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1087,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "Please use a StringBuilder here.",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///Tg\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1093,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "Why trim()?",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///To\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1101,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:22:06Z",
+      "side": 1,
+      "message": "I don\u0027t think that will ever happen.",
+      "revId": "bb0b025d9d2e86b200289da96bfcd56fe8ec2fbd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
