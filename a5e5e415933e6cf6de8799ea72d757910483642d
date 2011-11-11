@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAALH///TU\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 396,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:48:01Z",
+      "side": 1,
+      "message": "length() \u003e 0 equals isEmpty()\n\n!TextUtils.isEmpty(stateFileName) should be used here.",
+      "revId": "a5e5e415933e6cf6de8799ea72d757910483642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///TI\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1072,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:48:01Z",
+      "side": 1,
+      "message": "That trim() is unneeded, a broken overlay XML should not be papered over.",
+      "revId": "a5e5e415933e6cf6de8799ea72d757910483642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///TQ\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1078,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:48:01Z",
+      "side": 1,
+      "message": "That check is useless.",
+      "revId": "a5e5e415933e6cf6de8799ea72d757910483642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///TM\u003d",
+        "filename": "src/com/motorola/usb/UsbService.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1087,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-11-11T21:48:01Z",
+      "side": 1,
+      "message": "Please use a StringBuilder instead of this inefficient concatenation.",
+      "revId": "a5e5e415933e6cf6de8799ea72d757910483642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
