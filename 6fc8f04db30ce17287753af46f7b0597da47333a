@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+vY\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-06-04T17:21:11Z",
+      "side": 1,
+      "message": "A modemet javítottad, de itt belekerült egy baki :)",
+      "revId": "6fc8f04db30ce17287753af46f7b0597da47333a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
