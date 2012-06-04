@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+vw\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-06-04T17:01:27Z",
+      "side": 1,
+      "message": "Jaj még utólag annyit, hogy ez legyen simán (USB) Modem, ha már a többi után sincs ott a -ként",
+      "revId": "b90da42eb3b63e6a793f940165357436ababc0d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
