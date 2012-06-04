@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+wQ\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-06-04T16:30:04Z",
+      "side": 1,
+      "message": "Érintse meg a leválasztásához és a telefon adatok újraengedélyezéséhez.",
+      "revId": "163ba09afaa946ce90c1b5e999a27438b8eddf0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//+wM\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-06-04T16:30:04Z",
+      "side": 1,
+      "message": "Médiaeszköz",
+      "revId": "163ba09afaa946ce90c1b5e999a27438b8eddf0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//+wI\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-06-04T16:30:04Z",
+      "side": 1,
+      "message": "USB Háttértár",
+      "revId": "163ba09afaa946ce90c1b5e999a27438b8eddf0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
