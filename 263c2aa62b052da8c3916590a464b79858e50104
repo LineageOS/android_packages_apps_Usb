@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//83U\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2012-06-23T06:00:18Z",
+      "side": 1,
+      "message": "There really should be a space after USB here, but it\u0027s not that big of a deal.",
+      "revId": "263c2aa62b052da8c3916590a464b79858e50104",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
