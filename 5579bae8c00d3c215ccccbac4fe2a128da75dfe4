@@ -16,6 +16,24 @@
       "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8qg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-23T21:38:22Z",
+      "side": 1,
+      "message": "Ik ken de context niet, maar het hangt ervan af of:\n* iets verbonden is als USB (dan geeft USB aan dat het op die manier verbonden is, en dan hoort het voor zover ik weet zo (USB-verbonden))\n* USB zelf verbonden is als iets (%s)\n\nMij lijkt de eerste optie logischer",
+      "parentUuid": "AAAAUH//8sE\u003d",
+      "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
