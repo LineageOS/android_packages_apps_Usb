@@ -88,6 +88,41 @@
       "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7s4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-06-28T17:04:12Z",
+      "side": 1,
+      "message": "From my German understanding of sentence structure I would write that as\n\nUSB als %s verbonden.\n\nBut maybe that\u0027s completely off. Sam is right about the meaning, though.",
+      "parentUuid": "AAAAUH//8lw\u003d",
+      "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7s0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-06-28T17:04:12Z",
+      "side": 1,
+      "message": "Same here:\n\nDe USB-verbinding kan niet naar %s worden veranderd.\n\n(or something like that)\nWhat I want to say is that there\u0027s no need to keep the  %s at the end of the sentence.",
+      "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
