@@ -127,6 +127,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7q0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-28T22:01:17Z",
+      "side": 1,
+      "message": "Can someone give some examples of what the %s could be? To put it in context....",
+      "parentUuid": "AAAAUH//7so\u003d",
+      "revId": "5579bae8c00d3c215ccccbac4fe2a128da75dfe4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7s0\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
