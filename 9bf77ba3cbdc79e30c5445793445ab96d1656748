@@ -16,6 +16,24 @@
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7TQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:10:58Z",
+      "side": 1,
+      "message": "Ik zou USB zelfs weglaten, omdat het al om de USB verbinding gaat.\"Netwerk\" is genoeg.\n\nAls ik kijk naar de bestaande benamingen van USB in de nightly die ik nu gebruik, die ik hele andere termen voorbij komen als die hier nu worden voorgesteld, moeten we die niet hetzelfde houden? \n\nMTP \u003d Media-apparaat\nMSC \u003d Massaopslag\nRNDIS \u003d Netwerk\n\nDan klopt de zin \"USB als Massaopslag verbonden\"  ook veel beter, want nu krijg je \"USB als Toegang tot geheugenkaart verbonden\" en dat is raar.",
+      "parentUuid": "AAAAUH//7fY\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
