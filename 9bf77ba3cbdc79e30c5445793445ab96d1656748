@@ -34,6 +34,24 @@
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Lg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T15:39:56Z",
+      "side": 1,
+      "message": "Waar staan die vertalingen? Anders zou je het kunnen doen als:\n\n- MTP (media-apparaat)\n- MSC (massaopslag)\n- RNDIS (netwerk)",
+      "parentUuid": "AAAAUH//7TQ\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
