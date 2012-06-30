@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//7HQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T22:56:52Z",
+      "side": 1,
+      "message": "Ik kan werkelijk niets over een USB-modus vinden genaamd \u0027NGP\u0027. Jammer dat dat Sony die naam moest gebruiken (dan is PSV toch leuker).",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7HU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T22:56:52Z",
+      "side": 1,
+      "message": "- MTP\n- MTP (media-apparaat)",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7HM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T22:56:52Z",
+      "side": 1,
+      "message": "- UMS (wordt ook meer gebruikt in ICS? Ik dacht het ergens te hebben gezien...)\n- UMS (massaopslag)",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7fY\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -67,6 +118,42 @@
       "side": 1,
       "message": "Ik denk dat hij bedoelde voor mode_msc Massaopslag ...",
       "parentUuid": "AAAAUH//7Lg\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7HI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T22:56:52Z",
+      "side": 1,
+      "message": "Voor deze string dan:\n\n- RNDIS\n- RNDIS (netwerken)",
+      "parentUuid": "AAAAUH//7Kg\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7HY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T22:56:52Z",
+      "side": 1,
+      "message": "Netwerken als het werkwoord, niet als het meervoud van netwerk.\n\nEngelse tekst:\n\u003cstring name\u003d\"usb_mode_rndis\"\u003eUSB Networking\u003c/string\u003e",
+      "parentUuid": "AAAAUH//7fY\u003d",
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
