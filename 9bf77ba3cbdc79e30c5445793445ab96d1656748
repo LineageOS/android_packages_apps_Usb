@@ -52,6 +52,24 @@
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Kg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T17:05:04Z",
+      "side": 1,
+      "message": "Ik denk dat hij bedoelde voor mode_msc Massaopslag ...",
+      "parentUuid": "AAAAUH//7Lg\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
