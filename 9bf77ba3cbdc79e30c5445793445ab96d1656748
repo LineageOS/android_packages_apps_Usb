@@ -53,6 +53,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6uw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-03T03:43:21Z",
+      "side": 1,
+      "message": "In mijn CM9 staat \"USB-massaopslag\" als vertaling. Dus dan klopt UMS wel.",
+      "parentUuid": "AAAAUH//7HM\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7fY\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
