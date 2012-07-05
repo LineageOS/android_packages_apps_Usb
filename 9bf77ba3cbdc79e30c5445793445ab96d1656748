@@ -54,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6Ms\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-05T19:23:33Z",
+      "side": 1,
+      "message": "Het probleem is dat je dan dit krijgt:\n\n- Verbinding maken als Media-apparaat (MTP)\n\nEn dat kan je vermijden als je dit doet:\n\n- Verbinding maken als MTP (media-apparaat)\n\nJe kan ook \u0027media-apparaat (MTP)\u0027 doen, maar ik weet dan weer niet of deze string \u0027ergens\u0027 in het begin van een zin voorkomt.",
+      "parentUuid": "AAAAUH//6iE\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7HM\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
