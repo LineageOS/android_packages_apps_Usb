@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6Mc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T19:33:10Z",
+      "side": 1,
+      "message": "In andere talen beginnen deze ook met een hoofdletter.",
+      "parentUuid": "AAAAUH//6Ms\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7HM\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
