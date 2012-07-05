@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6iE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T19:02:50Z",
+      "side": 1,
+      "message": "In settings:\n- \u003cstring name\u003d\"storage_title_usb\" msgid\u003d\"679612779321689418\"\u003e\"USB-computerverbinding\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_connection_category\" msgid\u003d\"7805945595165422882\"\u003e\"Verbinding maken als\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_mtp_title\" msgid\u003d\"3399663424394065964\"\u003e\"Media-apparaat (MTP)\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_mtp_summary\" msgid\u003d\"4617321473211391236\"\u003e\"Hiermee kunt u mediabestanden overzetten op Windows-computers, of de app Android File Transfer op Mac-computers (ga naar www.android.com/filetransfer)\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_ptp_title\" msgid\u003d\"3852760810622389620\"\u003e\"Camera (PTP)\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_ptp_summary\" msgid\u003d\"7673397474756664929\"\u003e\"Hiermee kunt u foto\\\u0027s overzetten met camerasoftware en bestanden overzetten op computers die geen MTP ondersteunen\"\u003c/string\u003e\n- \u003cstring name\u003d\"usb_mass_storage_title\"\u003eUSB-massaopslag\u003c/string\u003e\n- \u003cstring name\u003d\"usb_mass_storage_summary\"\u003eUSB-massaopslag inschakelen\u003c/string\u003e\n\nDus: \"Media-apparaat (MTP)\" ?",
+      "parentUuid": "AAAAUH//7HU\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7HM\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -65,6 +83,24 @@
       "side": 1,
       "message": "In mijn CM9 staat \"USB-massaopslag\" als vertaling. Dus dan klopt UMS wel.",
       "parentUuid": "AAAAUH//7HM\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6Oc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T19:02:50Z",
+      "side": 1,
+      "message": "Ik zou dit ook kiezen.",
+      "parentUuid": "AAAAUH//6uw\u003d",
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -172,6 +208,24 @@
       "side": 1,
       "message": "Netwerken als het werkwoord, niet als het meervoud van netwerk.\n\nEngelse tekst:\n\u003cstring name\u003d\"usb_mode_rndis\"\u003eUSB Networking\u003c/string\u003e",
       "parentUuid": "AAAAUH//7fY\u003d",
+      "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6Og\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T19:02:50Z",
+      "side": 1,
+      "message": "Networking valt niet echt te vertalen naar het Nederlands.\n\n\"USB als netwerk (RNDIS) verbonden\" lijkt mij het beste.",
+      "parentUuid": "AAAAUH//7HY\u003d",
       "revId": "9bf77ba3cbdc79e30c5445793445ab96d1656748",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
